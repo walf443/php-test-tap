@@ -2,7 +2,7 @@
     "name": "walf443/test_tap",
     "description": "php port of perl's Test::More",
     "keywords": ["test"],
-    "homepage": "http://github.com/walf443/test_tap",
+    "homepage": "http://github.com/walf443/php-test_tap",
     "type": "library",
     "license": "MIT",
     "authors": [
