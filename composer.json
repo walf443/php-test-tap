@@ -5,10 +5,10 @@
     "homepage": "http://github.com/walf443/php-test_tap",
     "type": "library",
     "license": "MIT",
-    "authors": [
+    "authors": [{
         "name": "Keiji Yoshimi",
         "homepage": "http://github.com/walf443/"
-    ],
+    }],
     "require": {
         "php": ">=5.3.0"
     }
